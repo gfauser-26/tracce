@@ -1,0 +1,5 @@
+PUB uno
+PUB due
+GET
+ACK 1
+STATO

@@ -1,0 +1,4 @@
+PUBR casa/sala/temp 21
+SUB b casa/#
+SUB c +/sala/temp
+PUB casa/sala/temp 22

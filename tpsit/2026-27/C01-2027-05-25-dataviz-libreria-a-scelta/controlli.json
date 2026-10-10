@@ -1,0 +1,11 @@
+{
+  "file_richiesti": ["index.html", "dati.json"],
+  "non_vuoti": ["index.html", "dati.json"],
+  "contiene": [
+    {
+      "files": ["index.html", "src/"],
+      "regex": "fetch\\s*\\([^)]*dati\\.json",
+      "descrizione": "una chiamata a fetch nomina dati.json (in index.html o in src/)"
+    }
+  ]
+}

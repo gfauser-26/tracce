@@ -1,0 +1,8 @@
+[
+  { "mese": "gen", "vendite": 120 },
+  { "mese": "feb", "vendite": 95 },
+  { "mese": "mar", "vendite": 150 },
+  { "mese": "apr", "vendite": 130 },
+  { "mese": "mag", "vendite": 170 },
+  { "mese": "giu", "vendite": 160 }
+]

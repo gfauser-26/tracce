@@ -1,0 +1,3 @@
+SUB a casa/+/luce
+PUB casa/cucina/luce on
+PUB casa/cucina/gas off
